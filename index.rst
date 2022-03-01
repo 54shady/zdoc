@@ -7,6 +7,7 @@ Zeroway's Documentation Project
    linuxc/README.md
    mygentoo/README.md
    virtopt/README.md
+   kernel_drivers_examples/README.md
    fabvm/README.md
 
    More Documentation <https://github.com/54shady/>
