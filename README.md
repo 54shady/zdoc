@@ -21,7 +21,7 @@ Add package in requirements.txt
 
 Build the docker image
 
-	docker build  -network=host  -t mysphinx .
+	docker build --network=host  -t mysphinx .
 
 ### Run docker to generate compile the project
 
