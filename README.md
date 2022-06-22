@@ -24,3 +24,10 @@ Run the command
 		-v /path/to/fabvm:/docs/fabvm \
 		-v /path/to/virtopt:/docs/virtopt \
 	mysphinx make html
+
+### Compile Qemu documentation
+
+Enter qemu source top dir, and compile docs into docs/_build folder
+
+	cd /path/to/qemu-src
+	sphinx mysphinx sphinx-build docs docs/_build
