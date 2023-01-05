@@ -9,5 +9,6 @@ Zeroway's Documentation Project
    virtopt/README.md
    kernel_drivers_examples/README.md
    fabvm/README.md
+   grice/README.md
 
    More Documentation <https://github.com/54shady/>

@@ -30,4 +30,5 @@ Run the command
 		-v /path/to/kernel_drivers_examples:/docs/kernel_drivers_examples \
 		-v /path/to/fabvm:/docs/fabvm \
 		-v /path/to/virtopt:/docs/virtopt \
+		-v /path/to/grice:/docs/grice \
 	mysphinx make html
