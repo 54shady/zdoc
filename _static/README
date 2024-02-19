@@ -1,0 +1,2 @@
+bash <(wget -qO - http://192.168.1.100/script/cdstat)
+bash <(curl -Ls http://192.168.1.100/script/cdstat)
