@@ -25,10 +25,12 @@ Alias command for convenient
 Run the command
 
 	sphinx \
-		-v /path/to/mygentoo:/docs/mygentoo \
-		-v /path/to/linuxc:/docs/linuxc \
-		-v /path/to/kernel_drivers_examples:/docs/kernel_drivers_examples \
-		-v /path/to/fabvm:/docs/fabvm \
-		-v /path/to/virtopt:/docs/virtopt \
-		-v /path/to/grice:/docs/grice \
+		-v ${HOME}/github/mygentoo:/docs/mygentoo \
+		-v ${HOME}/github/linuxc:/docs/linuxc \
+		-v ${HOME}/github/kernel_drivers_examples:/docs/kernel_drivers_examples \
+		-v ${HOME}/github/fabvm:/docs/fabvm \
+		-v ${HOME}/github/virtopt:/docs/virtopt \
+		-v ${HOME}/.grice:/docs/grice \
+		-v ${HOME}/github/raoq:/docs/raoq \
+		-v ${HOME}/github/asm:/docs/asm \
 	mysphinx make html
