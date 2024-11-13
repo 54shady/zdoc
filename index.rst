@@ -11,6 +11,8 @@ Zeroway's Documentation Project
    fabvm/README.md
    grice/README.md
    raoq/README.md
+   mydev/README.md
+   myai/README.md
    asm/README.md
 
    More Documentation <https://github.com/54shady/>
