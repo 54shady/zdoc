@@ -4,6 +4,7 @@ Zeroway's Documentation Project
 .. toctree::
    :maxdepth: 3
 
+   mydev/index
    mylnx/README.md
    mygentoo/README.md
    virtopt/README.md
@@ -11,7 +12,6 @@ Zeroway's Documentation Project
    fabvm/README.md
    grice/README.md
    raoq/README.md
-   mydev/index
    myai/README.md
    asm/README.md
 
