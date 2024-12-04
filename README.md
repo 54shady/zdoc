@@ -26,7 +26,7 @@ Run the command
 
 	sphinx \
 		-v ${HOME}/github/myx/mygentoo:/docs/mygentoo \
-		-v ${HOME}/github/myx/linuxc:/docs/linuxc \
+		-v ${HOME}/github/myx/mylnx:/docs/mylnx \
 		-v ${HOME}/github/myx/mydev:/docs/mydev \
 		-v ${HOME}/github/myx/fabvm:/docs/fabvm \
 		-v ${HOME}/github/myx/virtopt:/docs/virtopt \
