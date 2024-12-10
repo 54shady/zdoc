@@ -6,7 +6,7 @@ Zeroway's Documentation Project
 
    mydev/index
    mylnx/README.md
-   mygentoo/README.md
+   mydistro/README.md
    virtopt/README.md
    kernel_drivers_examples/README.md
    fabvm/README.md

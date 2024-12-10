@@ -25,7 +25,7 @@ Alias command for convenient
 Run the command
 
 	sphinx \
-		-v ${HOME}/github/myx/mygentoo:/docs/mygentoo \
+		-v ${HOME}/github/myx/mydistro:/docs/mydistro \
 		-v ${HOME}/github/myx/mylnx:/docs/mylnx \
 		-v ${HOME}/github/myx/mydev:/docs/mydev \
 		-v ${HOME}/github/myx/fabvm:/docs/fabvm \
