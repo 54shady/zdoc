@@ -8,7 +8,6 @@ Zeroway's Documentation Project
    mylnx/README.md
    mydistro/README.md
    virtopt/README.md
-   kernel_drivers_examples/README.md
    fabvm/README.md
    grice/README.md
    raoq/README.md
