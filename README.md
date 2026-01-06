@@ -33,5 +33,6 @@ Run the command
 		-v ${HOME}/github/myx/myai:/docs/myai \
 		-v ${HOME}/github/myx/raoq:/docs/raoq \
 		-v ${HOME}/github/myx/asm:/docs/asm \
+		-v ${HOME}/github/myx/mycap:/docs/mycap \
 		-v ${HOME}/.grice:/docs/grice \
 	mysphinx make html
